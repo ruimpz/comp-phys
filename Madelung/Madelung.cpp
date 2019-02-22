@@ -10,7 +10,7 @@ int main()
     
     double M = .0;
     double d;
-    int L = 1750;
+    int L = 1500;
     double w = 1;
     double t1 = clock();
     for (int i = 0; i <= L; i++)
